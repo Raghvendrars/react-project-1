@@ -8,14 +8,15 @@
 .name{
     text-align: center  ;
 }
-.navbar-links li {
-    margin-top: 5px;
+.navbar-links {
+    /* padding: 10px; */
+    padding-right: 20px;
+    /* margin-top: 5px; */
     margin-bottom:0px;
     margin-left: 10px;
     list-style: none;
-    display: inline-block;
-    /* padding: 8px; */
-    /* position: relative; */
+    display: flex;
+    
 
 
 }   
@@ -25,8 +26,17 @@
     font-size: 23px;
 }
 .finger{
-    padding-top:10px;
+    /* padding-top:10px; */
     margin-bottom: 0;
     margin-left: 38%;
     font-size: 40px;
+}
+
+.nav-item{
+    padding: 10px;
+}
+
+.navbarlinks{
+    float:right;
+    /* margin-left:500px; */
 }
