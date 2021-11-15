@@ -1,0 +1,32 @@
+.navbar{
+    background-color: #2B3856;
+    color: white;
+}
+/* #home{
+    text-align: center;
+} */
+.name{
+    text-align: center  ;
+}
+.navbar-links li {
+    margin-top: 5px;
+    margin-bottom:0px;
+    margin-left: 10px;
+    list-style: none;
+    display: inline-block;
+    /* padding: 8px; */
+    /* position: relative; */
+
+
+}   
+.item{
+    text-decoration: none;
+    color: white;
+    font-size: 23px;
+}
+.finger{
+    padding-top:10px;
+    margin-bottom: 0;
+    margin-left: 38%;
+    font-size: 40px;
+}
